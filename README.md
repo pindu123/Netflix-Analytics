@@ -95,23 +95,6 @@
   <p align="center">
     <img width="1134" height="634" alt="image" src="https://github.com/user-attachments/assets/fce8e769-fa4f-4082-9de2-724cbef2b67a" />
    </p>
-
-  <h2 id="usage">🛠️ Usage</h2>
-  <ol>
-    <li>Open the <code>.pbix</code> file in <strong>Power BI Desktop</strong>.</li>
-    <li>Navigate the three report pages: <em>Shows Overview</em>, <em>Content Popularity</em>, <em>User Engagement</em>.</li>
-    <li>Use filters, slicers, and drill-throughs to analyze specific content, regions, or user segments.</li>
-  </ol>
-
-  <details>
-    <summary><strong>💡 Tips for better README visuals</strong></summary>
-    <ul>
-      <li>Store screenshots in <code>/images</code> and keep consistent widths.</li>
-      <li>PNG for crisp text; JPG for large, photographic backgrounds.</li>
-      <li>Use descriptive alt text for accessibility.</li>
-    </ul>
-  </details>
-
   <br>
   <p align="center">
     <sub>Made with ❤️ in Power BI</sub>
