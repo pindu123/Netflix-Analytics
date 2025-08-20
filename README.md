@@ -1,4 +1,5 @@
 📌 Overview
+
 This Power BI dashboard provides a comprehensive view of Netflix content performance, audience engagement, and platform usage. The dataset combines metadata about shows with user behavior and engagement metrics, enabling deep insights into content strategy, viewer preferences, and platform stickiness.
 
 The report is organized into three pages:
